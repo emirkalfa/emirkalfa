@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="32%" align="center">
-<picture><source media='(prefers-color-scheme: dark)' srcset='./assets/helmet-dark.png'><img src='./assets/helmet-light.png' width='214' alt='Robot kaskı'></picture>
+<img src="./assets/radar.gif" width="224" alt="Dönen tarama çizgisiyle üç hedefi gösteren piksel radar konsolu">
 <h3>İletişim</h3>
 <a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-dark.png'><img src='./assets/email-light.png' width='203' alt='E-posta gönder — emirkalfa10@gmail.com'></picture></a><br>
 <a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-dark.png'><img src='./assets/web-light.png' width='203' alt='Portfolyomu aç — emirkalfa.com'></picture></a>
