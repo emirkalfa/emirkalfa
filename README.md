@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="32%" align="center">
-<img src="./assets/radar.gif" width="224" alt="Dönen tarama çizgisiyle üç hedefi gösteren piksel radar konsolu">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scope-dark.gif"><img src="./assets/scope-light.gif" width="218" alt="Dönen piksel radar ve üç hedef"></picture>
 <h3>İletişim</h3>
 <a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-dark.svg'><img src='./assets/email-light.svg' width='203' alt='E-posta gönder — emirkalfa10@gmail.com'></picture></a><br>
 <a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-dark.svg'><img src='./assets/web-light.svg' width='203' alt='Portfolyomu aç — emirkalfa.com'></picture></a>
@@ -29,4 +29,4 @@
 </tr>
 </table>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='./assets/runway-dark.png'><img src='./assets/runway-light.png' width='100%' alt='Dağların arasında piste yaklaşan uçak'></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='./assets/horizon-dark.png'><img src='./assets/horizon-light.png' width='100%' alt='Dağların arasında piste yaklaşan uçak'></picture>
