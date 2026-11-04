@@ -13,15 +13,14 @@
 <p>İstanbul Arel Üniversitesi’nde Elektrik-Elektronik Mühendisliği okuyorum. Üniversitenin TEKNOFEST takımı <strong>Merkutech’te aviyonik takım kaptanıyım.</strong></p>
 <ul>
 <li><strong><a href="https://github.com/emirkalfa/zeta">ZETA</a></strong> ile sabit kanatlı İHA’lar için parametrik tasarım, 3B modelleme ve aerodinamik analizi tek bir web uygulamasında bir araya getiriyorum.</li>
-<li><strong>3S Güç Dağıtım Kartı</strong> projemde bir İHA’nın yüksek akım gereksinimi için KiCad ile güç dağıtım kartı tasarladım.</li>
 <li><strong><a href="https://complaintr.com">Complaintr</a></strong>’ın kurucu ortağıyım. Yapay zekâ destekli müşteri hizmetleri platformumuzun operasyonlarını yürütüyorum.</li>
 </ul>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg"><img src="./assets/skills-light.svg" width="435" alt="Teknik Beceriler"></picture>
 <table>
 <tr><th align="left">Gömülü Sistemler</th><td>Embedded C, STM32, ESP32</td></tr>
 <tr><th align="left">Programlama</th><td>Python, C/C++</td></tr>
-<tr><th align="left">Elektronik</th><td>KiCad, Altium ve PCB tasarımı</td></tr>
-<tr><th align="left">Araçlar</th><td>Linux, Bash</td></tr>
+<tr><th align="left">Elektronik</th><td>KiCad ve PCB tasarımı</td></tr>
+<tr><th align="left">Araçlar</th><td>Linux</td></tr>
 <tr><th align="left">Simülasyon</th><td>Aerodinamik tasarım ve simülasyon</td></tr>
 </table>
 <h3>Öne Çıkan Projeler</h3>
