@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="32%" align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scope-dark.gif"><img src="./assets/scope-light.gif" width="218" alt="Dönen piksel radar ve üç hedef"></picture>
+<img src="./assets/robot-wave.gif" width="216" alt="Ara sıra göz kırpıp el sallayan piksel robot">
 <h3>İletişim</h3>
 <a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-compact-dark.svg'><img src='./assets/email-compact-light.svg' width='76' alt='Mail'></picture></a><br>
 <a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-compact-dark.svg'><img src='./assets/linkedin-compact-light.svg' width='108' alt='LinkedIn'></picture></a><br>
