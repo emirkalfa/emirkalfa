@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="32%" align="center">
-<img src="./assets/sitting-robot.svg" width="210" alt="Oturan ve gözleriyle ara sıra etrafa bakan piksel robot">
+<img src="./assets/sitting-robot-blink.svg" width="210" alt="Sağa sola bakarken iki gözünü birden kırpan piksel robot">
 <h3>İletişim</h3>
 <a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-compact-dark.svg'><img src='./assets/email-compact-light.svg' width='76' alt='Mail'></picture></a><br>
 <a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-compact-dark.svg'><img src='./assets/linkedin-compact-light.svg' width='108' alt='LinkedIn'></picture></a><br>
