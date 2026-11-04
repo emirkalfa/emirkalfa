@@ -3,9 +3,8 @@
 <td valign="top" width="32%" align="center">
 <img src="./assets/sitting-robot-blink.svg" width="210" alt="Sağa sola bakarken iki gözünü birden kırpan piksel robot">
 <h3>İletişim</h3>
-<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-compact-dark.svg'><img src='./assets/email-compact-light.svg' width='76' alt='Mail'></picture></a><br>
-<a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-compact-dark.svg'><img src='./assets/linkedin-compact-light.svg' width='108' alt='LinkedIn'></picture></a><br>
-<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-compact-dark.svg'><img src='./assets/web-compact-light.svg' width='108' alt='Web Site'></picture></a>
+<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-triangle-dark.svg'><img src='./assets/email-triangle-light.svg' width='102' alt='Mail'></picture></a><br>
+<a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-triangle-dark.svg'><img src='./assets/linkedin-triangle-light.svg' width='102' alt='LinkedIn'></picture></a>&nbsp;<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-triangle-dark.svg'><img src='./assets/web-triangle-light.svg' width='102' alt='Web Site'></picture></a>
 </td>
 <td valign="top">
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg"><img src="./assets/identity-light.svg" width="435" alt="Muhammet Emir Kalfa (@emirkalfa) — Elektrik-Elektronik Mühendisliği Öğrencisi · Havacılık · Gömülü Sistemler · Güç Elektroniği"></picture>
