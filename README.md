@@ -29,4 +29,4 @@
 </tr>
 </table>
 
-<picture><source media='(prefers-color-scheme: dark)' srcset='./assets/horizon-dark.png'><img src='./assets/horizon-light.png' width='100%' alt='Dağların arasında piste yaklaşan uçak'></picture>
+<picture><source media='(prefers-color-scheme: dark)' srcset='./assets/still-lake-dark.svg'><img src='./assets/still-lake-light.svg' width='100%' alt='Çam ağaçları ve sisli tepeler arasında durgun bir göl'></picture>
