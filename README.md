@@ -3,8 +3,8 @@
 <td valign="top" width="32%" align="center">
 <img src="./assets/radar.gif" width="224" alt="Dönen tarama çizgisiyle üç hedefi gösteren piksel radar konsolu">
 <h3>İletişim</h3>
-<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-dark.png'><img src='./assets/email-light.png' width='203' alt='E-posta gönder — emirkalfa10@gmail.com'></picture></a><br>
-<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-dark.png'><img src='./assets/web-light.png' width='203' alt='Portfolyomu aç — emirkalfa.com'></picture></a>
+<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-dark.svg'><img src='./assets/email-light.svg' width='203' alt='E-posta gönder — emirkalfa10@gmail.com'></picture></a><br>
+<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-dark.svg'><img src='./assets/web-light.svg' width='203' alt='Portfolyomu aç — emirkalfa.com'></picture></a>
 </td>
 <td valign="top">
 <h1>Muhammet Emir Kalfa</h1>
@@ -23,8 +23,8 @@
 <tr><th align="left">Simülasyon</th><td>Aerodinamik tasarım ve simülasyon</td></tr>
 </table>
 <h3>Öne Çıkan Projeler</h3>
-<a href="https://github.com/emirkalfa/zeta"><img src="./assets/zeta.svg" width="435" alt="zeta — Uçak tasarım ve analiz aracı"></a><br>
-<a href="https://github.com/emirkalfa/aircraft-engine-vibration-analysis"><img src="./assets/vibration.svg" width="435" alt="aircraft-engine-vibration-analysis — Motor titreşimlerinde frekans analizi ve arıza tespiti"></a>
+<a href="https://github.com/emirkalfa/zeta"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/zeta-dark.svg"><img src="./assets/zeta-light.svg" width="435" alt="zeta — Uçak tasarım ve analiz aracı"></picture></a><br>
+<a href="https://github.com/emirkalfa/aircraft-engine-vibration-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/vibration-dark.svg"><img src="./assets/vibration-light.svg" width="435" alt="aircraft-engine-vibration-analysis — Motor titreşimlerinde frekans analizi ve arıza tespiti"></picture></a>
 </td>
 </tr>
 </table>
