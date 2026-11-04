@@ -29,4 +29,4 @@
 </tr>
 </table>
 
-<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/lake-ripples-dark.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/lake-ripples-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/lake-clouds-dark.gif"><img src='./assets/lake-clouds-light.gif' width='100%' alt='Üzerinde bulutlar süzülen, çam ağaçlarıyla çevrili sakin bir göl'></picture>
+<picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/lake-ripples-dark.svg"><source media="(prefers-reduced-motion: reduce)" srcset="./assets/lake-ripples-light.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/lake-drift-dark.gif"><img src='./assets/lake-drift-light.gif' width='100%' alt='Üzerinde bulutlar süzülen, çam ağaçlarıyla çevrili sakin bir göl'></picture>
