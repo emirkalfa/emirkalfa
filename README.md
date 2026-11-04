@@ -3,9 +3,9 @@
 <td valign="top" width="32%" align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scope-dark.gif"><img src="./assets/scope-light.gif" width="218" alt="Dönen piksel radar ve üç hedef"></picture>
 <h3>İletişim</h3>
-<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-button-dark.svg'><img src='./assets/email-button-light.svg' width='203' alt='E-posta gönder'></picture></a><br>
-<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-button-dark.svg'><img src='./assets/web-button-light.svg' width='203' alt='Web sitem'></picture></a><br>
-<a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-button-dark.svg'><img src='./assets/linkedin-button-light.svg' width='203' alt='LinkedIn profilim'></picture></a>
+<a href="mailto:emirkalfa10@gmail.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/email-button-dark.svg'><img src='./assets/email-button-light.svg' width='203' alt='Mail'></picture></a><br>
+<a href="https://www.linkedin.com/in/muhammet-emir-kalfa-a88a80293/"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/linkedin-button-dark.svg'><img src='./assets/linkedin-button-light.svg' width='203' alt='LinkedIn'></picture></a><br>
+<a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-button-dark.svg'><img src='./assets/web-button-light.svg' width='203' alt='Web Site'></picture></a>
 </td>
 <td valign="top">
 <h1>Muhammet Emir Kalfa</h1>
