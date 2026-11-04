@@ -8,14 +8,15 @@
 <a href="https://emirkalfa.com"><picture><source media='(prefers-color-scheme: dark)' srcset='./assets/web-compact-dark.svg'><img src='./assets/web-compact-light.svg' width='108' alt='Web Site'></picture></a>
 </td>
 <td valign="top">
-<h1>Muhammet Emir Kalfa</h1>
-<strong>Elektrik-Elektronik Mühendisliği Öğrencisi</strong><br>
-<code>// Embedded Systems &amp; IoT</code>
-
-<h3>Hakkımda</h3>
-İstanbul AREL Üniversitesi’nde Elektrik-Elektronik Mühendisliği okuyorum (2023–2028). Gömülü sistemler, IoT ve güç elektroniği alanlarında projeler geliştiriyorum. TEKNOFEST ekibi Merkutech üyesiyim ve üniversitemin Savunma Sanayi Kulübü’nde aktif rol alıyorum.
-
-<h3>Teknik Beceriler</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg"><img src="./assets/identity-light.svg" width="435" alt="Muhammet Emir Kalfa (@emirkalfa) — Elektrik-Elektronik Mühendisliği Öğrencisi · Embedded Systems &amp; IoT"></picture>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg"><img src="./assets/about-light.svg" width="435" alt="Hakkımda"></picture></p>
+<ul>
+<li>İstanbul AREL Üniversitesi — Elektrik-Elektronik Mühendisliği (2023–2028)</li>
+<li>Gömülü sistemler, IoT ve güç elektroniği alanlarında projeler geliştiriyorum.</li>
+<li>TEKNOFEST ekibi Merkutech üyesiyim.</li>
+<li>Üniversitemin Savunma Sanayi Kulübü’nde aktif rol alıyorum.</li>
+</ul>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg"><img src="./assets/skills-light.svg" width="435" alt="Teknik Beceriler"></picture>
 <table>
 <tr><th align="left">Gömülü Sistemler</th><td>C++, C</td></tr>
 <tr><th align="left">Programlama</th><td>Python, C++</td></tr>
